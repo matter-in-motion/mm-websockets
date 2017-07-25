@@ -13,13 +13,13 @@ Websockets from the browser:
 ```js
 const msg = [ <request>, <data object>, <head object>, <requestId> ];
 const con = new WebSocket('ws://localhost:3000/api');
-conn.onmessage = function(e) {
+con.onmessage = function(e) {
   const res = JSON.parse(e.data);
   console.log(res);
 }
 
-conn.onopen = function() {
-  conn.send(JSON.stringify(msg));
+con.onopen = function() {
+  con.send(JSON.stringify(msg));
 };
 ```
 
