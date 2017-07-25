@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/velocityzen/mm-websockets.git"
+    "url": "git+ssh://git@github.com/matter-in-motion/mm-websockets.git"
   },
   "keywords": [
     "mm",
@@ -21,9 +21,9 @@
   "author": "Alexey Novikov <v@2dubs.com> (http://2dubs.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/velocityzen/mm-websockets/issues"
+    "url": "https://github.com/matter-in-motion/mm-websockets/issues"
   },
-  "homepage": "https://github.com/velocityzen/mm-websockets#readme",
+  "homepage": "https://github.com/matter-in-motion/mm-websockets#readme",
   "dependencies": {
     "uws": "^8.14.0"
   }
