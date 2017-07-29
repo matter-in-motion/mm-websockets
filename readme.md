@@ -1,6 +1,6 @@
 # Matter In Motion. Websockets transport
 
-Websocket transport layer for [matter in motion](https://github.com/matter-in-motion/mm) framework
+Websocket transport extension for [matter in motion](https://github.com/matter-in-motion/mm) framework
 
 ## Usage
 
