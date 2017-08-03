@@ -1,5 +1,8 @@
 # Matter In Motion. Websockets transport
 
+[![NPM Version](https://img.shields.io/npm/v/mm-websockets.svg?style=flat-square)](https://www.npmjs.com/package/mm-websockets)
+[![NPM Downloads](https://img.shields.io/npm/dt/mm-websockets.svg?style=flat-square)](https://www.npmjs.com/package/mm-websockets)
+
 Websocket transport extension for [matter in motion](https://github.com/matter-in-motion/mm) framework
 
 ## Usage
