@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/matter-in-motion/mm-websockets#readme",
   "dependencies": {
-    "uws": "^8.14.1"
+    "uws": "^9.0.0"
   }
 }
