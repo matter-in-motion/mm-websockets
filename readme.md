@@ -31,6 +31,7 @@ con.onopen = function() {
 * __pingInterval__ — number. Ping interval in milliseconds
 * __type__ string, 'application/json'. Default type of data, 'application/json' is onlt available option for now.
 * __port__ number, if defined creates its own http server and listens `port`, otherwise tries to use [http transport](https://github.com/matter-in-motion/mm-http) server
+* serializer — string, serializer name to be used as default for websockets messages instead of default
 
 
 License: MIT.
