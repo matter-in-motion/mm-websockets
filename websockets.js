@@ -9,7 +9,7 @@ Websockets.prototype.__initRequired = true;
 
 Websockets.prototype.__init = function(units) {
   const settings = units.require('core.settings');
-  this.rxApi = new RegExp(settings.core.api);
+  this.rxApi = new RegExp(settings.core.api.path);
 
   const s = settings.websockets || {};
   this.pingInterval = s.pingInterval;
