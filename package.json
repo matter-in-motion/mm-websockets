@@ -1,6 +1,6 @@
 {
   "name": "mm-websockets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Matter in motion websockets transport",
   "main": "index.js",
   "scripts": {
